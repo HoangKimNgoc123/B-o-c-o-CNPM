@@ -3,5 +3,6 @@
 ### Lớp: K58KTP
 ### MSSV: K225480106053
 
-1. Link youtube thuyết trình: 
+1. Link youtube thuyết trình: https://youtu.be/ojoI4oXpneg
 2. Link sản phẩm Demo: https://banhanglaptop-lopk58ktp.mgx.world/
+
